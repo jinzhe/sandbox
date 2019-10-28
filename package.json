@@ -1,7 +1,7 @@
 {
 	"private": false,
 	"name": "@zee.kim/sandbox",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "fileSystem 沙盒",
 	"main": "src/sandbox.js",
 	"scripts": {

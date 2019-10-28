@@ -1,5 +1,5 @@
-const md5 = require('js-md5');
-const extension = {
+import { default as md5 } from 'js-md5';
+var extension = {
 	mp3: {
 		ContentType: 'audio/mp3'
 	},
